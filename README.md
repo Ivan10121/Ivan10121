@@ -16,7 +16,12 @@ I’m currently open for an Intern or a new job opportunity | <a href="https://d
 </ul>
 </p>
 
-- 📫 How to reach me **0246325@up.edu.mx**
+📧 **Email:** [0247152@up.edu.mx](mailto:0247152@up.edu.mx)  
+📱 **Teléfono:** [+52 449 256 14 69](tel:+524492561469)
+
+🌐 **GitHub:** [GitHub](https://github.com/tu-usuario)  
+💼 **LinkedIn:** [LinkedIn](https://linkedin.com/in/tu-usuario)  
+📸 **Instagram:** [Instagram](https://instagram.com/tu-usuario)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
