@@ -5,10 +5,19 @@ I am a Bachelor's student in Artificial Intelligence Engineering at Universidad 
 
 I’m currently open for an Intern or a new job opportunity | <a href="https://drive.google.com/file/d/1meXrARt5QVr6JjX-29fvVdzRZtds8bXu/view?usp=share_link">my_resume</a>
 
+<h3 align="left">Coursework:</h3>
+<p align="left"> 
+  <ul>
+  <li>Elemento 1</li>
+  <li>Elemento 2</li>
+  <li>Elemento 3</li>
+</ul>
+</p>
+
 - 📫 How to reach me **0246325@up.edu.mx**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
