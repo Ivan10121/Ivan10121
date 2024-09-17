@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ivan Galvan</h1>
-<h3 align="center">I am a Bachelor's student in Artificial Intelligence Engineering.</h3>
+
 
 I am a Bachelor's student in Artificial Intelligence Engineering at Universidad Panamericana in Aguascalientes, Mexico. Passionate about coding, technology, AI, machine learning, and web development, I’m constantly learning new skills and working on exciting projects!
 
