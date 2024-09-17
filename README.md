@@ -8,9 +8,11 @@ I’m currently open for an Intern or a new job opportunity | <a href="https://d
 <h3 align="left">Coursework:</h3>
 <p align="left"> 
   <ul>
-  <li>Elemento 1</li>
-  <li>Elemento 2</li>
-  <li>Elemento 3</li>
+  <li>Machine Learning</li>
+  <li>Design Patterns</li>
+  <li>Optimization and Metaheuristics</li>
+  <li>Data Structures and Algorithms</li>
+  <li>Databases</li>
 </ul>
 </p>
 
