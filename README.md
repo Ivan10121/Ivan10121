@@ -16,7 +16,7 @@ I’m currently open for an Intern or a new job opportunity | <a href="https://d
 </ul>
 </p>
 
-📧 **Email:** [0246325@up.edu.mx](mailto:0246325@up.edu.mx)  |  📱 **Phone:** [+52 449 412 13 58](tel:+524492561469)  |  💼 **LinkedIn:** [LinkedIn](www.linkedin.com/in/ivan-galvan-gomez)  
+📧 **Email:** [0246325@up.edu.mx](mailto:0246325@up.edu.mx)  |  📱 **Phone:** <a href="tel:+524494121358">+52 449 412 13 58</a> |  💼 **LinkedIn:** [LinkedIn](www.linkedin.com/in/ivan-galvan-gomez)  
 
 
 
