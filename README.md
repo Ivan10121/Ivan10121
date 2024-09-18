@@ -21,10 +21,10 @@ I’m currently open for an Intern or a new job opportunity | <a href="https://d
 
 
 
-<h2 align="left">⚒️ Technical Skills</h2>
+<h2 align="center">⚒️ Technical Skills</h2>
 
 <!-- Programming Languages -->
-<h3 align="left">Programming Languages</h3>
+<h3 align="center">Programming Languages</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
@@ -35,7 +35,7 @@ I’m currently open for an Intern or a new job opportunity | <a href="https://d
 </p>
 
 <!-- Web Development -->
-<h3 align="left">Web Development</h3>
+<h3 align="center">Web Development</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
@@ -46,7 +46,7 @@ I’m currently open for an Intern or a new job opportunity | <a href="https://d
 <hr/>
 
 <!-- Databases -->
-<h3 align="left">Databases</h3>
+<h3 align="center">Databases</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="50" height="50"/>
@@ -55,7 +55,7 @@ I’m currently open for an Intern or a new job opportunity | <a href="https://d
 <hr/>
 
 <!-- Tools & Others -->
-<h3 align="left">Tools & Others</h3>
+<h3 align="center">Tools & Others</h3>
 <p align="center">
   <img src="https://camo.githubusercontent.com/dbe4ba9617b5f2b9c3c12682ab9b2c687078af1cd25a2f545461157d8e1e7401/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d676974687562" alt="GitHub" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
