@@ -3,7 +3,7 @@
 
 I am a Bachelor's student in Artificial Intelligence Engineering at Universidad Panamericana in Aguascalientes, Mexico. Passionate about coding, technology, AI, machine learning, and web development, I’m constantly learning new skills and working on exciting projects!
 
-I’m currently open for an Intern or a new job opportunity | <a href="https://drive.google.com/file/d/1meXrARt5QVr6JjX-29fvVdzRZtds8bXu/view?usp=share_link">my_resume</a>
+I’m currently open for an Intern or a new job opportunity | <a href="https://drive.google.com/file/d/1DF9oVTjvA_lY41JDVIftOGr5zO1IRWlW/view?usp=share_link">my_resume</a>
 
 <h3 align="left">Coursework:</h3>
 <p align="left"> 
